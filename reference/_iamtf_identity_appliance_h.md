@@ -12,7 +12,7 @@ resource "iamtf_identity_appliance" "my-ida" {
 
 JOSSO will create all service URLs under the two paths: **/IDBUS** and **/IDBUS-UI**.
 
-In our example, these are thebase locations:
+In our example, these are the base locations:
 
 * https://mysso.mycompany.com/IDBUS/MY-IDA
 * https://mysso.mycompany.com/IDBUS-UI/MY-IDA
