@@ -1,5 +1,5 @@
 
-The IAM.tf terreaform plugin allows you to manage identity appliances and appliance elements as terraform resources in a IAM.tf server.
+The IAM.tf terraform plugin allows you to manage identity appliances and appliance elements as terraform resources in a IAM.tf server.
 
 **main.tf**
 ```
