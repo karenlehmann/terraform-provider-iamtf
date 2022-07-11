@@ -1,5 +1,5 @@
 
-The IAM.tf terreaform plugin allows you to manage identity appliances and appliance elements as terraform resources in a IAM.tf server.
+The IAM.tf terraform plugin allows you to manage identity appliances and appliance elements as terraform resources in a IAM.tf server.
 
 **main.tf**
 ```
@@ -27,7 +27,7 @@ provider "iamtf" {
 }
 ```
 
-You can also use environment valirables, and set minimun configuration in your plugin descriptor:
+You can also use environment variables, and set minimun configuration in your plugin descriptor:
 
 ```
 export JOSSO_API_CLIENT_ID=idbus-f2f7244e-bbce-44ca-8b33-f5c0bde339f7
